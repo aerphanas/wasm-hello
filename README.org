@@ -1,0 +1,9 @@
+#+TITLE: wasm hello example
+
+example c code compile to WebAssembly
+
+* how to run
+  - goto https://aerphanas.github.io/wasm-hello
+  - input some number
+  - click ok
+  - click cancel
