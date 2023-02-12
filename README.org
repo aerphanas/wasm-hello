@@ -5,7 +5,7 @@ example c code compile to WebAssembly
 * how to compile
 
 #+BEGIN_SRC sh
-emcc main.c -o public/index.html
+emcc main.c -o index.html
 #+END_SRC
 
 * how to run
