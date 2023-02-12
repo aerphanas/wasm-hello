@@ -2,6 +2,12 @@
 
 example c code compile to WebAssembly
 
+* how to compile
+
+#+BEGIN_SRC sh
+emcc main.c -o public/index.html
+#+END_SRC
+
 * how to run
   - goto https://aerphanas.github.io/wasm-hello
   - input some number
